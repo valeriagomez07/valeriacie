@@ -1,4 +1,6 @@
-import escurso.Persona;
+/*
+package es.curso2;
+
 
 public class Principal3 {
 
@@ -15,20 +17,20 @@ public class Principal3 {
         Persona[] lista = new Persona[2];
         lista[0] = p1;
         lista[1] = p2;
-        int contador = 0;
         int suma = 0;
 
         for (int i = 0; i < lista.length; i++) {
             System.out.println(lista[i].edad);
             System.out.println(lista[i].nombre);
             suma = suma + lista[i].edad;
-            contador++;
+        
         }
 
         System.out.println("***********************");
         System.out.println(suma);
-        System.out.println(suma / contador);
+        System.out.println(suma / lista.length);
 
     }
 
 }
+ */
